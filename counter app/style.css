@@ -1,0 +1,27 @@
+#count{
+    text-align: center;
+    color: white;
+    font-size:xx-large;
+    font-weight: bolder;
+
+}
+.button{
+    margin-left: 41%;
+    
+}
+button{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 8px 8px;
+    margin-left: 3%;
+    border-radius: 6px;
+    border: solid white;
+}
+#counter{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #A2AF9B;
+    margin-top: 10%;
+}
